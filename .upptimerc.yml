@@ -7,6 +7,8 @@ sites:
     url: https://api.stac.teledetection.fr
   - name: STAC endpoint for QGIS
     url: https://qgis.stac.teledetection.fr
+  - name: STAC browser
+    url: https://browser.stac.teledetection.fr
   - name: URL signing
     url: https://sign.stac.teledetection.fr
   - name: Home
