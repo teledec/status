@@ -10,7 +10,7 @@ sites:
   - name: STAC browser
     url: https://browser.stac.teledetection.fr
   - name: URL signing
-    url: https://sign.stac.teledetection.fr
+    url: https://signing.stac.teledetection.fr/docs
   - name: Home
     url: https://www.stac.teledetection.fr
   - name: API key management
@@ -27,8 +27,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://www.stac.teledetection.fr/images/mtd.svg
   name: Teledetection up time
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Teledetection** uptime monitor and status page."
+  introMessage: Summary of active and inactive web services provided by the [Teledetection geospatial data infrastructure](https://www.stac.teledetection.fr).
   navbar:
     - title: Status
       href: /
