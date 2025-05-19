@@ -11,6 +11,8 @@ sites:
     url: https://sign.stac.teledetection.fr
   - name: Home
     url: https://www.stac.teledetection.fr
+  - name: API key management
+    url: https://gate.stac.teledetection.fr
   - name: IPv6 test
     url: forwardemail.net
     port: 80
