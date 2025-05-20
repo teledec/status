@@ -26,7 +26,7 @@ status-website:
   introMessage: Summary of active and inactive web services provided by the [Teledetection geospatial data infrastructure](https://www.stac.teledetection.fr).
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
