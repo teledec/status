@@ -25,10 +25,8 @@ status-website:
   introTitle: "**Teledetection** uptime monitor and status page."
   introMessage: Summary of active and inactive web services provided by the [Teledetection geospatial data infrastructure](https://www.stac.teledetection.fr).
   navbar:
-    - title: Status
-      href: /status
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://www.stac.teledetection.fr/en/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
