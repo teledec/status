@@ -24,19 +24,19 @@
     "url": "https://qgis.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/qgis.stac.teledetection.fr.ico",
     "slug": "stac-endpoint-for-qgis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3911,
-    "timeDay": 6423,
-    "timeWeek": 3911,
-    "timeMonth": 3911,
-    "timeYear": 3911,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 3597,
+    "timeDay": 3911,
+    "timeWeek": 3597,
+    "timeMonth": 3597,
+    "timeYear": 3597,
     "dailyMinutesDown": {
-      "2025-05-25": 0
+      "2025-05-25": 18
     }
   },
   {
