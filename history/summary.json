@@ -4,9 +4,9 @@
     "url": "https://api.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/api.stac.teledetection.fr.ico",
     "slug": "stac-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 3554,
     "timeYear": 3549,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-07-08": 13,
       "2025-06-23": 9,
       "2025-05-24": 8
