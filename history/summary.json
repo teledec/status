@@ -6,17 +6,17 @@
     "slug": "stac-endpoint",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "79.86%",
-    "uptimeWeek": "85.01%",
-    "uptimeMonth": "94.40%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "84.96%",
+    "uptimeMonth": "94.41%",
     "uptimeYear": "98.68%",
     "time": 3243,
-    "timeDay": 2897,
+    "timeDay": 2540,
     "timeWeek": 3465,
     "timeMonth": 3099,
     "timeYear": 3243,
     "dailyMinutesDown": {
-      "2025-09-25": 83,
+      "2025-09-25": 88,
       "2025-09-24": 207,
       "2025-09-23": 81,
       "2025-09-22": 119,
@@ -33,7 +33,7 @@
       "2025-09-11": 58,
       "2025-09-10": 164,
       "2025-09-09": 51,
-      "2025-09-08": 92
+      "2025-09-08": 81
     }
   },
   {
@@ -43,17 +43,17 @@
     "slug": "stac-endpoint-for-qgis",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "80.09%",
-    "uptimeWeek": "85.19%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "82.06%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "98.70%",
     "time": 3261,
-    "timeDay": 3414,
+    "timeDay": 3109,
     "timeWeek": 3158,
     "timeMonth": 3199,
     "timeYear": 3261,
     "dailyMinutesDown": {
-      "2025-09-25": 83,
+      "2025-09-25": 88,
       "2025-09-24": 205,
       "2025-09-23": 80,
       "2025-09-22": 117,
@@ -70,7 +70,7 @@
       "2025-09-11": 56,
       "2025-09-10": 161,
       "2025-09-09": 49,
-      "2025-09-08": 90
+      "2025-09-08": 79
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/browser.stac.teledetection.fr.ico",
     "slug": "stac-browser",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "80.31%",
-    "uptimeWeek": "85.37%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "98.72%",
+    "uptime": "98.73%",
+    "uptimeDay": "82.28%",
+    "uptimeWeek": "85.33%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "98.73%",
     "time": 3058,
-    "timeDay": 2123,
+    "timeDay": 1721,
     "timeWeek": 3005,
     "timeMonth": 3141,
     "timeYear": 3058,
     "dailyMinutesDown": {
-      "2025-09-25": 83,
+      "2025-09-25": 87,
       "2025-09-24": 200,
       "2025-09-23": 77,
       "2025-09-22": 115,
@@ -107,7 +107,7 @@
       "2025-09-11": 55,
       "2025-09-10": 154,
       "2025-09-09": 48,
-      "2025-09-08": 86
+      "2025-09-08": 76
     }
   },
   {
@@ -116,18 +116,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/signing.stac.teledetection.fr.ico",
     "slug": "url-signing",
     "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "80.55%",
-    "uptimeWeek": "85.55%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.75%",
+    "uptimeDay": "82.53%",
+    "uptimeWeek": "85.51%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "98.75%",
     "time": 2724,
-    "timeDay": 1999,
+    "timeDay": 2207,
     "timeWeek": 2757,
     "timeMonth": 2603,
     "timeYear": 2724,
     "dailyMinutesDown": {
-      "2025-09-25": 83,
+      "2025-09-25": 87,
       "2025-09-24": 197,
       "2025-09-23": 75,
       "2025-09-22": 114,
@@ -144,7 +144,7 @@
       "2025-09-11": 53,
       "2025-09-10": 152,
       "2025-09-09": 46,
-      "2025-09-08": 84
+      "2025-09-08": 74
     }
   },
   {
@@ -154,17 +154,17 @@
     "slug": "home",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "85.74%",
-    "uptimeMonth": "94.79%",
+    "uptimeDay": "82.78%",
+    "uptimeWeek": "85.71%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "98.77%",
     "time": 2737,
-    "timeDay": 2552,
+    "timeDay": 2138,
     "timeWeek": 2657,
     "timeMonth": 2831,
     "timeYear": 2737,
     "dailyMinutesDown": {
-      "2025-09-25": 83,
+      "2025-09-25": 86,
       "2025-09-24": 193,
       "2025-09-23": 75,
       "2025-09-22": 111,
@@ -181,7 +181,7 @@
       "2025-09-11": 51,
       "2025-09-10": 146,
       "2025-09-09": 45,
-      "2025-09-08": 81
+      "2025-09-08": 72
     }
   },
   {
@@ -190,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gate.stac.teledetection.fr.ico",
     "slug": "api-key-management",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "81.05%",
-    "uptimeWeek": "85.92%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.80%",
+    "uptimeDay": "83.03%",
+    "uptimeWeek": "85.89%",
+    "uptimeMonth": "94.90%",
+    "uptimeYear": "98.80%",
     "time": 3250,
-    "timeDay": 2592,
+    "timeDay": 2716,
     "timeWeek": 3368,
     "timeMonth": 3309,
     "timeYear": 3250,
     "dailyMinutesDown": {
-      "2025-09-25": 83,
+      "2025-09-25": 86,
       "2025-09-24": 189,
       "2025-09-23": 71,
       "2025-09-22": 109,
@@ -218,7 +218,7 @@
       "2025-09-11": 50,
       "2025-09-10": 141,
       "2025-09-09": 44,
-      "2025-09-08": 77
+      "2025-09-08": 68
     }
   }
 ]
