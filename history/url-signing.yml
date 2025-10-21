@@ -1,7 +1,7 @@
 url: https://signing.stac.teledetection.fr/docs
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-21T11:56:43.331Z
+status: up
+code: 200
+responseTime: 1403
+lastUpdated: 2025-10-21T12:30:57.639Z
 startTime: 2025-05-19T10:51:11.709Z
 generator: Upptime <https://github.com/upptime/upptime>
