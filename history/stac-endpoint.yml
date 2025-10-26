@@ -1,7 +1,7 @@
 url: https://api.stac.teledetection.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-26T11:59:28.694Z
+status: up
+code: 200
+responseTime: 756
+lastUpdated: 2025-10-26T12:46:14.112Z
 startTime: 2025-05-19T10:50:47.069Z
 generator: Upptime <https://github.com/upptime/upptime>
