@@ -1,7 +1,7 @@
 url: https://gate.stac.teledetection.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-24T17:37:40.890Z
+status: up
+code: 200
+responseTime: 6557
+lastUpdated: 2025-11-24T17:47:31.520Z
 startTime: 2025-05-19T10:51:18.943Z
 generator: Upptime <https://github.com/upptime/upptime>
