@@ -4,19 +4,19 @@
     "url": "https://api.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/api.stac.teledetection.fr.ico",
     "slug": "stac-endpoint",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "99.31%",
     "time": 3464,
-    "timeDay": 3507,
+    "timeDay": 4132,
     "timeWeek": 4145,
     "timeMonth": 3472,
     "timeYear": 3464,
     "dailyMinutesDown": {
-      "2025-12-13": 64,
+      "2025-12-13": 67,
       "2025-12-12": 112,
       "2025-12-11": 260,
       "2025-12-10": 86,
@@ -34,7 +34,7 @@
       "2025-11-28": 147,
       "2025-11-27": 177,
       "2025-11-26": 112,
-      "2025-11-25": 32
+      "2025-11-25": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://qgis.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/qgis.stac.teledetection.fr.ico",
     "slug": "stac-endpoint-for-qgis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "92.32%",
-    "uptimeWeek": "91.56%",
-    "uptimeMonth": "95.11%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "95.16%",
     "uptimeYear": "99.29%",
     "time": 3422,
-    "timeDay": 4085,
+    "timeDay": 3600,
     "timeWeek": 3401,
     "timeMonth": 3324,
     "timeYear": 3422,
     "dailyMinutesDown": {
-      "2025-12-13": 62,
+      "2025-12-13": 64,
       "2025-12-12": 109,
       "2025-12-11": 258,
       "2025-12-10": 85,
@@ -71,7 +71,7 @@
       "2025-11-29": 32,
       "2025-11-28": 263,
       "2025-11-27": 173,
-      "2025-11-26": 110
+      "2025-11-26": 84
     }
   },
   {
@@ -79,19 +79,19 @@
     "url": "https://browser.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/browser.stac.teledetection.fr.ico",
     "slug": "stac-browser",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "92.43%",
-    "uptimeWeek": "91.71%",
-    "uptimeMonth": "95.43%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "91.70%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "99.34%",
     "time": 2953,
-    "timeDay": 3333,
+    "timeDay": 2830,
     "timeWeek": 3061,
     "timeMonth": 2913,
     "timeYear": 2953,
     "dailyMinutesDown": {
-      "2025-12-13": 61,
+      "2025-12-13": 63,
       "2025-12-12": 107,
       "2025-12-11": 255,
       "2025-12-10": 82,
@@ -109,7 +109,7 @@
       "2025-11-28": 141,
       "2025-11-27": 171,
       "2025-11-26": 108,
-      "2025-11-25": 30
+      "2025-11-25": 11
     }
   },
   {
@@ -117,19 +117,19 @@
     "url": "https://signing.stac.teledetection.fr/docs",
     "icon": "https://icons.duckduckgo.com/ip3/signing.stac.teledetection.fr.ico",
     "slug": "url-signing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "91.88%",
-    "uptimeMonth": "95.53%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "91.86%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.35%",
     "time": 2849,
-    "timeDay": 2401,
+    "timeDay": 2708,
     "timeWeek": 2775,
     "timeMonth": 2989,
     "timeYear": 2849,
     "dailyMinutesDown": {
-      "2025-12-13": 61,
+      "2025-12-13": 63,
       "2025-12-12": 106,
       "2025-12-11": 252,
       "2025-12-10": 80,
@@ -147,7 +147,7 @@
       "2025-11-28": 138,
       "2025-11-27": 165,
       "2025-11-26": 107,
-      "2025-11-25": 30
+      "2025-11-25": 11
     }
   },
   {
@@ -155,19 +155,19 @@
     "url": "https://www.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.stac.teledetection.fr.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "95.67%",
+    "uptimeYear": "99.37%",
     "time": 2583,
-    "timeDay": 3217,
+    "timeDay": 3650,
     "timeWeek": 2580,
     "timeMonth": 2341,
     "timeYear": 2583,
     "dailyMinutesDown": {
-      "2025-12-13": 58,
+      "2025-12-13": 59,
       "2025-12-12": 102,
       "2025-12-11": 249,
       "2025-12-10": 78,
@@ -185,7 +185,7 @@
       "2025-11-28": 136,
       "2025-11-27": 161,
       "2025-11-26": 104,
-      "2025-11-25": 28
+      "2025-11-25": 10
     }
   },
   {
@@ -193,19 +193,19 @@
     "url": "https://gate.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gate.stac.teledetection.fr.ico",
     "slug": "api-key-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "92.21%",
-    "uptimeMonth": "95.73%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "95.77%",
     "uptimeYear": "99.38%",
     "time": 3260,
-    "timeDay": 4099,
+    "timeDay": 3648,
     "timeWeek": 3078,
     "timeMonth": 2970,
     "timeYear": 3260,
     "dailyMinutesDown": {
-      "2025-12-13": 58,
+      "2025-12-13": 59,
       "2025-12-12": 101,
       "2025-12-11": 246,
       "2025-12-10": 75,
@@ -223,7 +223,7 @@
       "2025-11-28": 133,
       "2025-11-27": 158,
       "2025-11-26": 103,
-      "2025-11-25": 28
+      "2025-11-25": 10
     }
   }
 ]
