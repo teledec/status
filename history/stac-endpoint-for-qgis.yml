@@ -1,7 +1,7 @@
 url: https://qgis.stac.teledetection.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-10T20:54:53.256Z
+status: up
+code: 200
+responseTime: 5411
+lastUpdated: 2026-01-10T21:12:27.871Z
 startTime: 2025-05-19T10:50:53.432Z
 generator: Upptime <https://github.com/upptime/upptime>
