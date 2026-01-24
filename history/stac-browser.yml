@@ -1,7 +1,7 @@
 url: https://browser.stac.teledetection.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-24T20:45:26.581Z
+status: up
+code: 200
+responseTime: 5387
+lastUpdated: 2026-01-24T20:53:59.505Z
 startTime: 2025-05-19T10:50:59.660Z
 generator: Upptime <https://github.com/upptime/upptime>
