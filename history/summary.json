@@ -176,11 +176,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/signing.stac.teledetection.fr.ico",
     "slug": "url-signing",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.20%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 2778,
     "timeDay": 5310,
     "timeWeek": 2821,
@@ -231,10 +231,10 @@
     "url": "https://www.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.stac.teledetection.fr.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.12%",
     "time": 2609,
@@ -243,6 +243,7 @@
     "timeMonth": 3365,
     "timeYear": 2609,
     "dailyMinutesDown": {
+      "2026-04-24": 1,
       "2026-04-11": 95,
       "2026-04-08": 61,
       "2026-03-15": 25,
@@ -276,7 +277,7 @@
       "2026-01-23": 20,
       "2026-01-22": 75,
       "2026-01-21": 266,
-      "2026-01-20": 112
+      "2026-01-20": 82
     }
   },
   {
