@@ -289,11 +289,11 @@
     "url": "https://gate.stac.teledetection.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gate.stac.teledetection.fr.ico",
     "slug": "api-key-management",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "95.76%",
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "95.75%",
     "uptimeYear": "98.86%",
     "time": 3263,
     "timeDay": 1009,
@@ -301,7 +301,7 @@
     "timeMonth": 4375,
     "timeYear": 3263,
     "dailyMinutesDown": {
-      "2026-05-18": 92,
+      "2026-05-18": 93,
       "2026-05-17": 1,
       "2026-05-03": 50,
       "2026-05-02": 71,
@@ -341,7 +341,7 @@
       "2026-01-24": 129,
       "2026-01-23": 20,
       "2026-01-22": 71,
-      "2026-01-21": 174
+      "2026-01-21": 141
     }
   }
 ]
